@@ -1,29 +1,34 @@
 {
   "files": {
-    "main.css": "/quiz-widget/static/css/main.30a049a2.chunk.css",
-    "main.js": "/quiz-widget/static/js/main.ffb5b344.chunk.js",
-    "main.js.map": "/quiz-widget/static/js/main.ffb5b344.chunk.js.map",
-    "runtime-main.js": "/quiz-widget/static/js/runtime-main.e8092b0e.js",
-    "runtime-main.js.map": "/quiz-widget/static/js/runtime-main.e8092b0e.js.map",
-    "static/js/2.a3eaee1c.chunk.js": "/quiz-widget/static/js/2.a3eaee1c.chunk.js",
-    "static/js/2.a3eaee1c.chunk.js.map": "/quiz-widget/static/js/2.a3eaee1c.chunk.js.map",
-    "static/js/3.7c057d60.chunk.js": "/quiz-widget/static/js/3.7c057d60.chunk.js",
-    "static/js/3.7c057d60.chunk.js.map": "/quiz-widget/static/js/3.7c057d60.chunk.js.map",
+    "main.css": "/quiz-widget/static/css/main.f009a767.chunk.css",
+    "main.js": "/quiz-widget/static/js/main.1e891599.chunk.js",
+    "main.js.map": "/quiz-widget/static/js/main.1e891599.chunk.js.map",
+    "runtime-main.js": "/quiz-widget/static/js/runtime-main.1675d127.js",
+    "runtime-main.js.map": "/quiz-widget/static/js/runtime-main.1675d127.js.map",
+    "static/css/2.d27c3c1d.chunk.css": "/quiz-widget/static/css/2.d27c3c1d.chunk.css",
+    "static/js/2.99ee3dd6.chunk.js": "/quiz-widget/static/js/2.99ee3dd6.chunk.js",
+    "static/js/2.99ee3dd6.chunk.js.map": "/quiz-widget/static/js/2.99ee3dd6.chunk.js.map",
+    "static/js/3.187612c2.chunk.js": "/quiz-widget/static/js/3.187612c2.chunk.js",
+    "static/js/3.187612c2.chunk.js.map": "/quiz-widget/static/js/3.187612c2.chunk.js.map",
     "index.html": "/quiz-widget/index.html",
-    "static/css/main.30a049a2.chunk.css.map": "/quiz-widget/static/css/main.30a049a2.chunk.css.map",
-    "static/js/2.a3eaee1c.chunk.js.LICENSE.txt": "/quiz-widget/static/js/2.a3eaee1c.chunk.js.LICENSE.txt",
+    "static/css/2.d27c3c1d.chunk.css.map": "/quiz-widget/static/css/2.d27c3c1d.chunk.css.map",
+    "static/css/main.f009a767.chunk.css.map": "/quiz-widget/static/css/main.f009a767.chunk.css.map",
+    "static/js/2.99ee3dd6.chunk.js.LICENSE.txt": "/quiz-widget/static/js/2.99ee3dd6.chunk.js.LICENSE.txt",
     "static/media/above_average.1364f779.png": "/quiz-widget/static/media/above_average.1364f779.png",
+    "static/media/alarm.acf0c87a.svg": "/quiz-widget/static/media/alarm.acf0c87a.svg",
+    "static/media/arrow_forward.5acbbb4b.svg": "/quiz-widget/static/media/arrow_forward.5acbbb4b.svg",
     "static/media/excellent.45ee39bf.svg": "/quiz-widget/static/media/excellent.45ee39bf.svg",
     "static/media/good.cd88e9a2.svg": "/quiz-widget/static/media/good.cd88e9a2.svg",
-    "static/media/style.css": "/quiz-widget/static/media/maths.bc3cc359.png",
     "static/media/poor.fa42fa2e.svg": "/quiz-widget/static/media/poor.fa42fa2e.svg",
     "static/media/question.06eaefea.svg": "/quiz-widget/static/media/question.06eaefea.svg",
-    "static/media/quiz_board.bbfba0b2.svg": "/quiz-widget/static/media/quiz_board.bbfba0b2.svg"
+    "static/media/quiz_board.bbfba0b2.svg": "/quiz-widget/static/media/quiz_board.bbfba0b2.svg",
+    "static/media/replay.b386c5dd.svg": "/quiz-widget/static/media/replay.b386c5dd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8092b0e.js",
-    "static/js/2.a3eaee1c.chunk.js",
-    "static/css/main.30a049a2.chunk.css",
-    "static/js/main.ffb5b344.chunk.js"
+    "static/js/runtime-main.1675d127.js",
+    "static/css/2.d27c3c1d.chunk.css",
+    "static/js/2.99ee3dd6.chunk.js",
+    "static/css/main.f009a767.chunk.css",
+    "static/js/main.1e891599.chunk.js"
   ]
 }
